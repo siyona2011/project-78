@@ -3,7 +3,7 @@ var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg", "https://i.postimg.cc/
   "https://i.postimg.cc/JnL6wtrd/sister.jpg",
   "https://i.postimg.cc/bw5W5zSK/mother.jpg"
 ];
-var names = ["Fmaily Book", "Ranbir Singh", "Diljeet Singh", "Rocky Singh", "Alia Singh", "Soni Singh"];
+var names = ["Family Book", "Ranbir Singh", "Diljeet Singh", "Rocky Singh", "Alia Singh", "Soni Singh"];
 var i = 0;
 
 function update() {
